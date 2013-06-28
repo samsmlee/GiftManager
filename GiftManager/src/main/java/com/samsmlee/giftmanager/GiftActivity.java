@@ -1,10 +1,11 @@
 package com.samsmlee.giftmanager;
 
+import android.app.ListActivity;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-public class GiftActivity extends Activity {
+public class GiftActivity extends ListActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
