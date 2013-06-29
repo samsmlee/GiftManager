@@ -4,5 +4,9 @@
     <string name="app_name">GiftManager</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_received">RECEIVED</string>
+    <string name="title_given">GIVEN</string>
+    <string name="title_people">PEOPLE</string>
+    <string name="title_reminders">REMINDERS</string>
 
 </resources>
